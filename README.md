@@ -1,13 +1,13 @@
 # __MKVToolNix-in-Google-Colab__
 Install latest __MKVToolNix__ into the Google Colab runtime. Use __mkvmerge, mkvextract, mkvpropedit__
 
-<a href="https://colab.research.google.com/github/dropcreations/MKVToolNix-in-Google-Colab/blob/main/MKVToolNix-in-Google-Colab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+<a href="https://colab.research.google.com/github/DEV1LKING/MUXXER/blob/main/MKVToolNix-in-Google-Colab.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 <br>
 - Click on the ***"Open in Colab"*** button to open this notebook in google colab
 <br>
 
 <p align="center">
-    <img alt="MKVToolNix-Logo" src=https://raw.githubusercontent.com/dropcreations/MKVToolNix-in-Google-Colab/main/MKVToolNix-Logo.png></img>
+    <img alt="MKVToolNix-Logo" src=https://raw.githubusercontent.com/DEV1LKING/MUXXER/main/MKVToolNix-Logo.png></img>
 </p>
 
 ## __mkvmerge__
